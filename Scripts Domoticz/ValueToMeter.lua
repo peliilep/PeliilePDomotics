@@ -8,7 +8,10 @@ meter_id = 29
  
 -- User variable containing the counter zero point (Wh)
 meter_base = 'Meter pulse start'
- 
+
+
+-- Needs update
+
 ------------------------------------------------------------------------------
 commandArray = {}
  
